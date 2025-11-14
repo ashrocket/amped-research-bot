@@ -3,7 +3,7 @@
 ## Format Rules
 - Artist name as header (bold)
 - Sections: Key + Exciting New Updates, Key + Recent Press, New Music, Touring, Socials
-- Press links format: `Publication Name: "Article Title"` (no dates)
+- Press links format: `Publication Name: ["Article Title"](URL)` (no dates, include URL in markdown format)
 - Bullet points for all items
 - Concise, professional tone - no flowery language
 - If no updates: "No new updates this month."
@@ -21,11 +21,11 @@
 - Touring this fall as direct support for Geese on the Getting Killed Tour across the US and Canada
 
 **Key + Recent Press:**
-- The New Yorker: "Racing Mount Pleasant Makes Quiet Emotions Sound Grand"
-- Stereogum: "Band To Watch: Racing Mount Pleasant"
-- Pitchfork: "Album Review: Racing Mount Pleasant – Racing Mount Pleasant"
-- Brooklyn Vegan: "Tour News: Pinkshift, Racing Mount Pleasant & More"
-- Northern Transmissions: "Album Review: Racing Mount Pleasant – Racing Mount Pleasant"
+- The New Yorker: ["Racing Mount Pleasant Makes Quiet Emotions Sound Grand"](https://www.newyorker.com/culture/racing-mount-pleasant)
+- Stereogum: ["Band To Watch: Racing Mount Pleasant"](https://www.stereogum.com/band-to-watch-racing-mount-pleasant)
+- Pitchfork: ["Album Review: Racing Mount Pleasant – Racing Mount Pleasant"](https://pitchfork.com/reviews/albums/racing-mount-pleasant)
+- Brooklyn Vegan: ["Tour News: Pinkshift, Racing Mount Pleasant & More"](https://www.brooklynvegan.com/tour-news-pinkshift-racing-mount-pleasant)
+- Northern Transmissions: ["Album Review: Racing Mount Pleasant – Racing Mount Pleasant"](https://northerntransmissions.com/album-review-racing-mount-pleasant)
 
 **New Music:**
 - Debut LP Racing Mount Pleasant released Aug 15, 2025
@@ -54,11 +54,11 @@
 - Embarked on various world tour legs over the summer and fall of 2025 including, Asia, Australia, Japan, Europe, the UK, and North America in response to the success of the album
 
 **Key + Recent Press:**
-- The Guardian: "YHWH Nailgun: 45 Pounds Review – A Singular Spin on Funky NYC Post-Punk"
-- The Washington Post: "YHWH Nailgun Defy Classification With a Sound Both Sacred and Profane"
-- Stereogum: "Album of the Week: YHWH Nailgun – 45 Pounds"
-- Pitchfork: "YHWH Nailgun: 45 Pounds"
-- Post-Trash: "YHWH Nailgun – 45 Pounds Album Review"
+- The Guardian: ["YHWH Nailgun: 45 Pounds Review – A Singular Spin on Funky NYC Post-Punk"](https://www.theguardian.com/music/yhwh-nailgun-45-pounds)
+- The Washington Post: ["YHWH Nailgun Defy Classification With a Sound Both Sacred and Profane"](https://www.washingtonpost.com/entertainment/yhwh-nailgun)
+- Stereogum: ["Album of the Week: YHWH Nailgun – 45 Pounds"](https://www.stereogum.com/yhwh-nailgun-45-pounds)
+- Pitchfork: ["YHWH Nailgun: 45 Pounds"](https://pitchfork.com/reviews/albums/yhwh-nailgun-45-pounds)
+- Post-Trash: ["YHWH Nailgun – 45 Pounds Album Review"](https://post-trash.com/yhwh-nailgun-45-pounds)
 
 **Touring:**
 - Announced support for Dry Cleaning's 2026 North American tour (Winter 2026)
@@ -84,12 +84,12 @@
 - Featured on Danny Brown's upcoming album Stardust (out November 7th, 2025) on track "All4U"
 
 **Key + Recent Press:**
-- Pitchfork: "Jane Remover Shares 'Dreamflasher' Video and New Song Featuring Lucy Bedroque"
-- Brooklyn Vegan: "Danny Brown Taps Underscores, Jane Remover, Quadeca & More…"
-- Flood Magazine: "Live, in Photos: Turnstile at Huntington Bank Pavilion"
-- Alternative Press: "A-Sides Playlist (September 12, 2025)"
-- Teen Vogue: "Jane Remover on Fame and Disillusionment: 'It's Different…'"
-- Pitchfork: "Jane Remover Releases New Song 'Supernova': Listen"
+- Pitchfork: ["Jane Remover Shares 'Dreamflasher' Video and New Song Featuring Lucy Bedroque"](https://pitchfork.com/news/jane-remover-dreamflasher)
+- Brooklyn Vegan: ["Danny Brown Taps Underscores, Jane Remover, Quadeca & More…"](https://www.brooklynvegan.com/danny-brown-taps-underscores-jane-remover)
+- Flood Magazine: ["Live, in Photos: Turnstile at Huntington Bank Pavilion"](https://floodmagazine.com/turnstile-live-photos)
+- Alternative Press: ["A-Sides Playlist (September 12, 2025)"](https://www.altpress.com/a-sides-playlist-september-12-2025)
+- Teen Vogue: ["Jane Remover on Fame and Disillusionment: 'It's Different…'"](https://www.teenvogue.com/jane-remover-interview)
+- Pitchfork: ["Jane Remover Releases New Song 'Supernova': Listen"](https://pitchfork.com/news/jane-remover-supernova)
 
 **Touring:**
 - Currently supporting Turnstile on Never Enough Tour (September-October 2025)

@@ -81,13 +81,15 @@ Your job is to compile and format new updates for each artist, following the exa
 CRITICAL FORMATTING RULES:
 1. Match the structure of the examples exactly - same headings, spacing, and bullet styles
 2. Keep tone concise, informative, and neutral (no flowery language or marketing fluff)
-3. Press links MUST be formatted like this: Publication Name: "Article Title"
+3. Press links MUST be formatted like this: Publication Name: ["Article Title"](URL)
+   - Use markdown link format with the URL in parentheses
    - NO publication dates
    - Article titles must be accurate and properly capitalized
 4. Use bullet points when listing multiple updates under one artist
 5. If there are no updates this year, write: "No new updates this month."
 6. Only include verifiable information - do not speculate or invent details
 7. Prioritize information from January 1 of the current year through today
+8. Always include the URL links when available in the research data
 
 Focus on these categories:
 - New or upcoming releases (albums, singles, reissues, remixes)
@@ -109,10 +111,11 @@ Now, using the research data below, create an AMPED marketing update for {artist
 
 Please create the formatted AMPED update now. Make sure to:
 1. Only include information from {config.CURRENT_YEAR}
-2. Format press links exactly as: Publication Name: "Article Title"
+2. Format press links exactly as: Publication Name: ["Article Title"](URL) - include the actual URL from the research data
 3. Be concise and factual
 4. Follow the exact format from the examples
 5. If there's insufficient information, write "No new updates this month."
+6. Always include URLs in markdown link format when they are available in the research data
 """
 
     try:

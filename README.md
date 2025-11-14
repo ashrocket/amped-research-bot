@@ -14,7 +14,7 @@ When you input an artist name, the bot:
 - ✅ Matches AMPED's exact formatting style
 - ✅ Searches multiple sources (press outlets, social media, official channels)
 - ✅ Prioritizes credible press outlets (Pitchfork, Stereogum, Rolling Stone, etc.)
-- ✅ Formats press links correctly: `Publication Name: "Article Title"`
+- ✅ Formats press links correctly: `Publication Name: ["Article Title"](URL)` with clickable URLs
 - ✅ Focuses on current-year information only
 - ✅ Command-line tool - easy to use
 
@@ -115,8 +115,8 @@ Key + Exciting New Updates:
 - [Update 2]
 
 Key + Recent Press:
-- Publication Name: "Article Title"
-- Publication Name: "Article Title"
+- Publication Name: ["Article Title"](URL)
+- Publication Name: ["Article Title"](URL)
 
 New Music:
 - [Release info]
@@ -128,6 +128,8 @@ Socials:
 - Instagram: [followers]
 - Spotify: [monthly listeners]
 ```
+
+Note: Press links are formatted as markdown links for easy clicking.
 
 ## Cost
 
