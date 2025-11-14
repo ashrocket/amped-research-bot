@@ -121,7 +121,7 @@ Please create the formatted AMPED update now. Make sure to:
 
         # Call Claude
         message = client.messages.create(
-            model="claude-3-5-sonnet-20241022",  # Latest Claude model
+            model="claude-3-opus-20240229",  # Claude 3 Opus
             max_tokens=2000,
             system=system_prompt,
             messages=[
